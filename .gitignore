@@ -1,2 +1,4 @@
 node_modules
 .vscode
+api/migrations
+__pycache__
